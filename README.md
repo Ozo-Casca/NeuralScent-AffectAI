@@ -20,17 +20,14 @@
 
 ## ✨ Overview
 
-**NeuralScent — AffectAI** is a text-based emotion classification system that analyzes written sentences and identifies the underlying emotion.
+**NeuralScent — AffectAI** ### 
+**AI-Powered Emotion Recognition & Intelligence Platform**
 
-The project explores and compares three deep learning architectures:
+NeuralScent is a Deep Learning and Natural Language Processing project designed to identify emotions expressed in textual communication. Built using an Advanced Stacked Bidirectional GRU architecture, the system classifies written input into six emotion categories and generates probability-based predictions through a FastAPI backend.
 
-- Recurrent Neural Network (RNN)
-- Long Short-Term Memory (LSTM)
-- Gated Recurrent Unit (GRU)
+The project explores how emotion recognition can be applied to customer experience intelligence, feedback analytics, social media research and textual communication analysis. Its interactive intelligence dashboard transforms individual model predictions into visual insights, probability distributions and analytical reports.
 
-The final implementation uses an **Advanced Stacked Bidirectional GRU (BiGRU)** model to perform emotion classification.
-
-The trained model is integrated with a FastAPI backend and a web-based interface, enabling users to submit text and receive real-time emotion predictions along with confidence scores.
+**Technologies:** Python, TensorFlow, Keras, NLP, BiGRU, FastAPI, NumPy, JavaScript and Data Visualization.
 
 ## 🎯 Emotion Categories
 
